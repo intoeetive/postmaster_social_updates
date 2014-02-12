@@ -1,0 +1,12 @@
+This is Service for Postmaster module [https://objectivehtml.com/index.php] which serves a a bridge between Social Update module [http://devot-ee.com/add-ons/social-update] and Postmaster. It allows notifications to be posted to authorized social accounts.
+
+The advantage of this bridge is that the notifications can be triggered not only when entry is posted, but when any event/hook supported by Postmaster is taking palce.
+
+Following social networks are supported:
+* Facebook
+* Twitter
+* LinkedIn
+
+Social Update must be installed and social networks authorized before setting up notifications. 
+
+Postmaster and Social Update modules are required.
